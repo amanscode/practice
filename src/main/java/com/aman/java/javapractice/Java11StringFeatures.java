@@ -1,4 +1,4 @@
-package com.aman.java.practice;
+package com.aman.java.javapractice;
 
 import java.util.ArrayList;
 

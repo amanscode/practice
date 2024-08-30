@@ -31,11 +31,11 @@
         </dependency>
 
         <!-- Optional: Spring Boot Starter Data JPA (if using JPA) -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-jpa</artifactId>
-            <version>3.3.3</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.boot</groupId>-->
+<!--            <artifactId>spring-boot-starter-data-jpa</artifactId>-->
+<!--            <version>3.3.3</version>-->
+<!--        </dependency>-->
 
     </dependencies>
 

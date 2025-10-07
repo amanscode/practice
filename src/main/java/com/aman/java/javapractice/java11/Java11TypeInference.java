@@ -1,4 +1,4 @@
-package com.aman.java.javapractice;
+package com.aman.java.javapractice.java11;
 
 public class Java11TypeInference {
     public static void main(String[] args) {

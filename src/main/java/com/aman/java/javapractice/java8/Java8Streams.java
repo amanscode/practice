@@ -1,4 +1,4 @@
-package com.aman.java.javapractice;
+package com.aman.java.javapractice.java8;
 
 import com.aman.java.pojo.Department;
 import com.aman.java.pojo.Employee;
